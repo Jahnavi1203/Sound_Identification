@@ -1,0 +1,20 @@
+body{
+    font-family: 'Special Elite, cursive';
+    background: pink;
+    text-align: center;
+}
+.header_div{
+    background: white;
+    color: royalblue;
+}
+.copy_right_fotter{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    color: sienna;
+    background: tan;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(151, 149, 149);
+}
